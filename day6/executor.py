@@ -62,8 +62,8 @@ def execute_plan(plan: dict) -> str:
     print(f"\n{'-'*40}")
     print(f"[整合结果，生成最终答案...]")
     summary = chat([{
-        role:"user",
-        content:(
+        "role":"user",
+        "content":(
             f"你完成了任务：{goal}\n\n"
             f"步骤结果如下："
             f"{'='*20}\n"

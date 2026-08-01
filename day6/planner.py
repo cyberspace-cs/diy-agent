@@ -9,7 +9,7 @@ PLANNER_PROMPT="""你是一个任务规划专家。
 
 用户给你一个复杂任务，把它分解成3-6个清晰、可执行的步骤。
 
-可用工具：websearch（搜索）、get_weather（天气）、calculate（计算）、get_current_time（时间）
+可用工具：web_search（搜索）、get_weather（天气）、calculate（计算）、get_current_time（时间）
 
 要求：
 - 每步要具体，能直接执行

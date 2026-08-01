@@ -1,9 +1,31 @@
+# Python
 __pycache__/
 *.pyc
 *.pyo
-.env
-.venv
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
 venv/
-__pycache__/
-.ipynb_checkpoints/
+env/
+ENV/
+
+# 环境变量（含敏感 API Key，切勿提交）
+.env
+.env.*
+!.env.example
+
+# 日志 / 临时文件
+*.log
+_push.log
+_push_out.log
+
+# 系统
 .DS_Store
+Thumbs.db
+.ipynb_checkpoints/
