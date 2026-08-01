@@ -3,7 +3,7 @@
 > 从零动手实现一个 LLM Agent 的 7 天学习实践项目。
 
 本项目是我在学习 [`kris330/my-first-agent`](https://github.com/kris330/my-first-agent) 课程仓库基础上，**按自己的理解和环境重构、本地化、并补充中文注释**的版本。代码按 `day1` ~ `day7` 分目录组织，每天对应课程的一个里程碑。
-这是对应的微信文章：[`Day 7：完整项目收尾——整合、部署、下一步`]
+这是对应的微信文章：[Day 7：完整项目收尾——整合、部署、下一步]
 (https://mp.weixin.qq.com/s/qIW5QKdY_TnAWW-vYZRjbg)
 
 ---
